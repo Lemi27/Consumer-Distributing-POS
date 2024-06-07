@@ -21,7 +21,7 @@ To run the POS system, make sure you have Java installed on your system.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/lemi27/consumers-distributing-pos.git
+    git clone https://github.com/Lemi27/consumers-distributing-pos.git
     ```
 
 2. Navigate to the project directory:
