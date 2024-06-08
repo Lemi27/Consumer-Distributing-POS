@@ -1,8 +1,11 @@
 /********************************************************
+@author             Lemi Miyu
+@date               07-Jun-2024
+@teacher            Andrew Carreiro
 @file               Order.java
-@description        This class represents an order in the point of sale (POS) system.
-                    It includes attributes such as customer name, product name, 
-                    stock, quantity ordered, and price.
+@description        This class represents an Order with attributes such as customer
+                    name, product name, stock, quantity ordered, and price. It includes
+                    methods for getting and setting these attributes.
 ********************************************************/
 
 package main.java.consumersdistributing.pos;

@@ -1,9 +1,10 @@
 /********************************************************
+@author             Lemi Miyu
+@date               07-Jun-2024
+@teacher            Andrew Carreiro
 @file               POSMenu.java
-@description        This class provides a menu interface for managing the point 
-                    of sale (POS) operations. It allows users to navigate to the 
-                    order desk, order pick display, check out, or go back to 
-                    the previous menu.
+@description        This class handles the menu for POS operations including order
+                    creation, order review, and checkout.
 ********************************************************/
 
 package main.java.consumersdistributing.menus;

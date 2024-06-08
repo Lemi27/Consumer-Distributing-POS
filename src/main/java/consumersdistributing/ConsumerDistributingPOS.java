@@ -1,7 +1,11 @@
 /********************************************************
+@author             Lemi Miyu
+@date               07-Jun-2024
+@teacher            Andrew Carreiro
 @file               ConsumerDistributingPOS.java
-@description        This class represents the main point of entry for the Consumers Distributing POS system. 
-                    It allows navigation through different menus and handles program termination.
+@description        This class is the main entry point for the Consumers Distributing
+                    POS system, handling the initial menu and coordinating with other
+                    classes for data management.
 ********************************************************/
 
 package main.java.consumersdistributing;

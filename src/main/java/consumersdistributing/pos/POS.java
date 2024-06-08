@@ -1,8 +1,11 @@
 /********************************************************
+@author             Lemi Miyu
+@date               07-Jun-2024
+@teacher            Andrew Carreiro
 @file               POS.java
-@description        This class manages the point of sale (POS) operations,
-                    including adding orders, printing order pick display,
-                    and checkout.
+@description        This class handles the point of sale (POS) operations, managing the
+                    order list, adding orders, printing order details, and processing
+                    checkout operations.
 ********************************************************/
 
 package main.java.consumersdistributing.pos;

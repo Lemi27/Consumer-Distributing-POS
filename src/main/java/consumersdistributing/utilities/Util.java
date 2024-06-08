@@ -1,6 +1,10 @@
 /********************************************************
+@author             Lemi Miyu
+@date               07-Jun-2024
+@teacher            Andrew Carreiro
 @file               Util.java
-@description        This class provides utility methods for input validation and formatting output.
+@description        This utility class provides helper methods for assuring correct
+                    input types and printing line breaks for better readability.
 ********************************************************/
 
 package main.java.consumersdistributing.utilities;

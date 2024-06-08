@@ -1,8 +1,10 @@
 /********************************************************
+@author             Lemi Miyu
+@date               07-Jun-2024
+@teacher            Andrew Carreiro
 @file               FileHandling.java
-@description        This class handles file input/output operations,
-                    such as reading and writing customer and product data
-                    from/to text files.
+@description        This class handles reading and writing customer and product data
+                    to and from text files.
 ********************************************************/
 
 package main.java.consumersdistributing.utilities;
